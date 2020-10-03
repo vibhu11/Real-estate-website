@@ -1,0 +1,168 @@
+body {
+    padding: 0;
+    margin: 0;
+    
+}
+
+/* Navigation bar */
+.nav-bar {
+    
+    height: 4rem;
+    text-align: right;
+    padding-top: 2rem;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.nav-bar a:hover {
+    color: black;
+}
+
+.nav-bar a {
+    margin-left: 50px;
+    color: purple;
+}
+
+/* corousel */
+.carousel-inner {
+    
+    text-align: center;
+}
+
+img{
+    height: 600px;
+    width: 1500px;
+}
+.testimonial-image1 {
+    background-color: white;
+}
+
+.container2 {
+    padding: 2rem 4rem;
+    background-color: grey;
+    
+}
+
+.containeresssss {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .centered {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+
+
+
+/* Locations */
+
+.img-container {
+    background-color: white;
+    padding: 30px;
+}
+
+.top-img-container {
+    margin-bottom: 1rem;
+}
+
+.locations-sec {
+    padding:40px;
+    
+    background-color: gray;
+}
+
+.small-img{
+    height: 22rem;
+    width: 20rem;
+}
+
+.large-img {
+    height: 22rem;
+    width: 50rem;
+}
+
+.below-img {
+    margin-left: 10.5rem ;
+}
+
+
+
+
+
+
+
+.img-text {
+    margin-right: 10rem;
+}
+
+.bottom-img-sec {
+    text-align: right;
+
+}
+
+/* ONgoing projects */
+#ongoing-projects{
+    padding: 0 15%;
+    background-color: gray;
+    padding-bottom: 2rem;
+    
+}
+#ongoing-projects img {
+    width: 20rem;
+    height: 20rem;
+    float: left;
+    margin-left: 20rem;
+    
+
+}
+
+#ongoing-projects h4 {
+    margin-top: 8rem;
+}
+
+/* Contacts */
+#contact {
+    padding: 40px 80px;
+    text-align: center;
+}
+
+/* Feature box */
+
+#feature-box  {
+    padding: 40px 80px;
+    background-color: #9ab3f5;
+    
+    
+}
+
+#feature-box hr {
+    height: 1px;
+    background-color: white;
+}
+
+
+/* Footer */
+#footer{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.icons {
+    margin:10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
